@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://perl-workflow.github.io/</loc>
-         <lastmod>2021-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://workflow.pm/</loc>
+         <lastmod>2025-01-24</lastmod>
     </url>
     <url>
-         <loc>https://perl-workflow.github.io/about/</loc>
-         <lastmod>2021-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://workflow.pm/about/</loc>
+         <lastmod>2025-01-24</lastmod>
     </url>
 </urlset>
